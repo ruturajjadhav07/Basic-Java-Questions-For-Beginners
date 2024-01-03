@@ -1,3 +1,5 @@
+// Finding the sum of given numbers
+// eg sum of 2 numbers from start is 1+2 = 3
 import java.util.Scanner;
 
 public class Sum {
